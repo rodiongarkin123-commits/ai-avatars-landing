@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  background: #0b0b0e;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 1.15;
+  margin-bottom: 12px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #b8b8c7;
+  margin-bottom: 12px;
+}
+
+a {
+  display: block;
+  margin: 16px 0;
+  padding: 16px;
+  background: #2dff6b;
+  color: #000;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 14px;
+  text-decoration: none;
+}
